@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brian Kipchumba</h1>
-<h3 align="center">A passionate Data Scientist and Back-end developer from Kenya</h3>
+<h3 align="center">A passionate Back-end developer from Kenya</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJc0MHoxCbLI8_M1-M88g0ylsCM4K7gv-UK2uaHtDAUJFpy6PrOhUd-lkoA&s">
 
-- 🔭 I’m currently working on **Data science Projects**
+- 🔭 I’m currently working on **an Instagram Clone Project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rufron](https://github.com/Rufron)
 
